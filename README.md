@@ -20,10 +20,11 @@ The results highlight that a limited subset of highly informative features can p
 - **Hyperparameter Tuning**: Uses grid search for hyperparameter optimization.
 - **Cross-Validation**: Applies cross-validation to manage class imbalance and improve model reliability.
 
-## Repository structure
+## Repository
 
 ├── data/                      # Folder containing the EMG data files. Direcotry name stands for patient ids
 
+## Cite
 
 Nasybullin, A.A., Abdullaev, N., Baranov, M.A., Koshman, V.V., & Mahonin, V.A. (Year). A Methodology to Rank Importance of Frequencies and Channels in Electromyography Data with Decision Tree Classifiers. Journal/Conference Name. DOI: 10.20537/nd241216.
 
